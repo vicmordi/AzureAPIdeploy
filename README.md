@@ -12,3 +12,41 @@ This project reflects a real-world best practice where the frontend and API are 
 
 #Azure #CloudSecurity #FastAPI #PostgreSQL #Networking #DevOps #Infrastructure #SystemDesign #Python #Nginx #DataProtection
 
+
+
+![WhatsApp Image 2025-10-27 at 17 05 15_1cf76242](https://github.com/user-attachments/assets/2dafcfab-fa23-4e15-831d-26111d3717a0)
+
+
+<img width="1919" height="857" alt="Screenshot 2025-10-23 002133" src="https://github.com/user-attachments/assets/c974da9a-008a-4d38-a17a-5099c3b67bf8" />
+
+<img width="1915" height="834" alt="Screenshot 2025-10-23 002200" src="https://github.com/user-attachments/assets/4dfe6965-d8de-44ac-b501-8185bc6aa48c" />
+
+<img width="1919" height="833" alt="Screenshot 2025-10-23 002224" src="https://github.com/user-attachments/assets/d233067f-66c1-40bf-a242-dfb450aa915b" />
+
+<img width="1919" height="863" alt="Screenshot 2025-10-23 002241" src="https://github.com/user-attachments/assets/10026e4b-19aa-4ad6-8296-d985deaf89c5" />
+
+<img width="1919" height="784" alt="Screenshot 2025-10-23 002326" src="https://github.com/user-attachments/assets/da0db1af-1637-451e-b037-3fe04b153f60" />
+
+<img width="1919" height="857" alt="Screenshot 2025-10-23 002443" src="https://github.com/user-attachments/assets/5c1c938b-ecf2-492c-aeb3-51e17d5caaae" />
+
+<img width="1919" height="858" alt="Screenshot 2025-10-23 002501" src="https://github.com/user-attachments/assets/ebfc297d-278a-411e-b8b3-a8069419b7eb" />
+
+<img width="1908" height="910" alt="Screenshot 2025-10-22 193231" src="https://github.com/user-attachments/assets/6e6d230e-126c-40f4-8e5a-b48d2685f795" />
+
+<img width="1903" height="915" alt="Screenshot 2025-10-22 193935" src="https://github.com/user-attachments/assets/de63a9bc-f445-4fa3-94e4-726297a5f3c2" />
+
+<img width="1918" height="970" alt="Screenshot 2025-10-23 002556" src="https://github.com/user-attachments/assets/c265931e-face-45fe-9524-3b469b54f671" />
+
+<img width="1911" height="911" alt="Screenshot 2025-10-23 002543" src="https://github.com/user-attachments/assets/dde724ff-2070-4450-90fb-a108bf7754da" />
+
+<img width="1907" height="909" alt="Screenshot 2025-10-23 002527" src="https://github.com/user-attachments/assets/d2f8b1e0-7c48-445b-be23-eb30da739be4" />
+
+
+
+
+
+
+
+
+
+
