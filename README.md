@@ -43,6 +43,10 @@ This project reflects a real-world best practice where the frontend and API are 
 
 
 
+https://github.com/user-attachments/assets/2f50a0ae-479f-4555-a204-39b324f5a85f
+
+
+
 
 
 
